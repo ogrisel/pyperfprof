@@ -9,7 +9,7 @@ import shutil
 from distutils.command.clean import clean as Clean
 
 
-DISTNAME = 'pyperprof'
+DISTNAME = 'pyperfprof'
 DESCRIPTION = """Sampling profiler tool for Python programs"""
 LONG_DESCRIPTION = open('README.rst').read()
 MAINTAINER = 'Olivier Grisel'
